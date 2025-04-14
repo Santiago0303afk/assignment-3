@@ -29,7 +29,7 @@ const Credits = (props) => {
     return props.credits.map((credit) => {
       const date = credit.date.slice(0, 10);
       return (
-        <li key={credit.id}>
+        <li key={credit.date + credit.amount + credit.description}>
           ${credit.amount.toFixed(2)} - {credit.description} ({date})
         </li>
       );
