@@ -1,2 +1,2 @@
 ### Live Link 
-[Website link](https://johnnylaicode.github.io/bank-of-react-starter-code/)
+[Click here to view the deployed site](https://Santiago0303.afk.github.io/assignment-3/)
