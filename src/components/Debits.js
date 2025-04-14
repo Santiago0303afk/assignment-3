@@ -29,7 +29,7 @@ const Debits = (props) => {
     return props.debits.map((debit) => {
       const date = debit.date.slice(0, 10);
       return (
-        <li key={debit.id}>
+        <li key={`${debit.date}-${debit.amount}-${debit.description}`}>
           ${debit.amount.toFixed(2)} - {debit.description} ({date})
         </li>
       );
