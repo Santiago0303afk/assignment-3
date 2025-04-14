@@ -2,7 +2,8 @@
 This repository is the starter code for Assignment 3 - Bank of React.
 
 ### Live Link 
-[Website link](https://santiago0303afk.github.io/assignment-3)
+[Website link](https://github.com/Santiago0303afk/assignment-3.git)
+
 
 
 ----------
